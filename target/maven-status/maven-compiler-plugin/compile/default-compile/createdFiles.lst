@@ -1,0 +1,12 @@
+LdapController.class
+LdapService$UserAttributesMapper.class
+LdapService.class
+LdapConfig.class
+LdapConnectionTest$UserContextMapper.class
+LdapService$UserSession.class
+LdapController$AuthRequest.class
+LdapService$UserInfo.class
+LdapConnectionTest$UserAttributesMapper.class
+LdapConnectionTest$UserInfo.class
+Application.class
+LdapConnectionTest.class
